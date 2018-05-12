@@ -1,0 +1,34 @@
+_repo: Tristram-of-Blent--An-Episode-in-the-Story-of-an-Ancient-House_20981
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Hope, Anthony
+    alias: Hawkins, Anthony Hope
+    birthdate: 1863
+    deathdate: 1933
+    gutenberg_agent_id: '63'
+    url: http://www.gutenberg.org/2009/agents/63
+    wikipedia: http://en.wikipedia.org/wiki/Anthony_Hope
+description: The fate of Harry Tristram's inheritance hangs on a technicality of the
+  calendar, and the outcome is not in Harry's favor. All he wants is to own the House
+  of Blent, but unless he can convince himself to marry someone he does not love,
+  Harry may have to relinquish his estate to his cousin Cecily. Readers will relish
+  the story's ingenious denouement and Hope's precise character study.
+gutenberg_issued: '2007-04-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '20981'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Young men -- Fiction'
+- !lcsh 'Inheritance and succession -- Fiction'
+- !lcsh 'England -- Social life and customs -- Fiction'
+title: 'Tristram of Blent: An Episode in the Story of an Ancient House'
+url: http://www.gutenberg.org/ebooks/20981
